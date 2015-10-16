@@ -7,4 +7,4 @@ import contacts from an xml files into mongodb and do some extra operations
                ---|---|---
    <img src="https://avatars.githubusercontent.com/adriaanm"     height="50px" title="Adriaan Moors"/>        |
  <img src="https://avatars.githubusercontent.com/SethTisue"    height="50px" title="Seth Tisue"/>           |
- <img src="https://avatars.githubusercontent.com/retronym"     height="50px" title="Jason Zaugg"/>
+ <img src="https://avatars.githubusercontent.com/retronym"     height="50px" title="Jason Zaugg"/>|
