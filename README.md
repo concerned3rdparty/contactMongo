@@ -6,5 +6,5 @@ import contacts from an xml files into mongodb and do some extra operations
    |  username    | talk to me about....  
    ---|---|---
 a        |
-b         |
- c|
+b         |  c|
+
