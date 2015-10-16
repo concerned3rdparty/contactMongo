@@ -8,5 +8,12 @@ import contacts from an xml files into mongodb and do some extra operations
      |a                                                | 
      |b         |  c|d
    || <img src="https://avatars.githubusercontent.com/adriaanm"     height="50px" title="Adriaan Moors"/>                                  
-  |<img src="https://avatars.githubusercontent.com/SethTisue"    height="50px" title="Seth Tisue"/>           |  [`@SethTisue`]("https://github.com/SethTisue" height="50px" title="Adriaan Moors")         | back-end, library, the welcome-to-Scala experience, build |
+  |<img src="https://avatars.githubusercontent.com/SethTisue"    height="50px" title="Seth Tisue"/> |  [`@SethTisue`]("https://github.com/SethTisue" height="50px" title="Adriaan Moors") | back-end, library, the welcome-to-Scala experience, build |
+
 ![sdsd](https://avatars.githubusercontent.com/SethTisue)
+
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
