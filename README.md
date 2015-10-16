@@ -8,4 +8,4 @@ import contacts from an xml files into mongodb and do some extra operations
      |a                                                |
      |b         |  c|
    || <img src="https://avatars.githubusercontent.com/adriaanm"     height="50px" title="Adriaan Moors"/>           |                          
-|<img src="https://avatars.githubusercontent.com/SethTisue"    height="50px" title="Seth Tisue"/>           | [`@SethTisue`](https://github.com/SethTisue)         | back-end, library, the welcome-to-Scala experience, build |
+  |<img src="https://avatars.githubusercontent.com/SethTisue"    height="50px" title="Seth Tisue"/>           | [`@SethTisue`](https://github.com/SethTisue)         | back-end, library, the welcome-to-Scala experience, build |
