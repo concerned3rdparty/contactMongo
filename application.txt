@@ -4,4 +4,5 @@ end
 
 def addstuff()
 
-parror git is awesome	
+parror "git is awesome"
+
