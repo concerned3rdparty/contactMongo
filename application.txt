@@ -1,0 +1,5 @@
+def parrot(words)
+	put words
+end
+
+parror git is awesome	
