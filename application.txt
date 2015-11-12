@@ -2,4 +2,6 @@ def parrot(words)
 	put words
 end
 
+def addstuff()
+
 parror git is awesome	
