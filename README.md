@@ -1,3 +1,3 @@
 http://ryanflorence.com/git-for-beginners/
 
-goot git tutorial for beginners
+good git tutorial for beginners
